@@ -1,0 +1,1 @@
+{"booster": "gbtree", "subsample": 0.7975981864019109, "colsample_bytree": 0.5250795671620785, "n_estimators": 200, "max_depth": 16, "min_child_weight": 13.475987797021185, "eta": 0.03400221918616169}
